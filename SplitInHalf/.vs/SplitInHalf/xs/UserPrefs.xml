@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{903EA9C3-2822-408F-ABDC-34B20BFC4A74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplitInHalf/Program.fs">
+    <Files>
+      <File FileName="SplitInHalf/Program.fs" Line="7" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SplitInHalf" expanded="True">
+            <Node name="SplitInHalf" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SplitInHalf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

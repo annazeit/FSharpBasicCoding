@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfzrDxs/7gT8NVt46TcfPvhK+igMoBnqLp5b687/cfq7Q85/QuOYlhgbeH/QwA8cWB4PObYpK3m2a7a7/GWXyg==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/Console1/Console1/Console1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

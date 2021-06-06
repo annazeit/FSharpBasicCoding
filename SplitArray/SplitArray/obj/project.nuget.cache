@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQJ3QuFCnR6ro/Sc8TjZmrw+TGeVM8nDSj6e99U7hW4SIwZ1KOB0ULopsM0JtQLIK8t3N8qLCUCMgEqkUT4xNQ==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/SplitArray/SplitArray/SplitArray.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

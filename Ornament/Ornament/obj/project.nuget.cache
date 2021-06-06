@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "su7IE6MAqLrtD4p6hcF6t1QN/SJNcBn3LQWITWfAzK9qhxE2MwL8Fwe267Ghx8JWwUD3kYsnC6YZ4J3+Q2aQNw==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/Ornament/Ornament/Ornament.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAeyR3zQ0ekSGkIPc1efYA9NjYS+T0A1hvoGucr6Ssg22T5Rra3ODtj5U4cY5F2K34emx5dC9RBvXiTbPdEtaA==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/Calculator/Calculator/Calculator.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

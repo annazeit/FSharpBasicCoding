@@ -1,0 +1,3 @@
+/Users/annabilyk/Projects/SplitInHalf/SplitInHalf/obj/Debug/net5.0/SplitInHalf.fsprojAssemblyReference.cache
+/Users/annabilyk/Projects/SplitInHalf/SplitInHalf/obj/Debug/net5.0/SplitInHalf.AssemblyInfoInputs.cache
+/Users/annabilyk/Projects/SplitInHalf/SplitInHalf/obj/Debug/net5.0/SplitInHalf.AssemblyInfo.fs

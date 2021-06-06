@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a06riNBFfXdGRdTU1dH+Q5txxgcx5Z+MlZYTh1nUSKKYDmFIrO3xCr34S6wxwjL018aq9B3wLzUEF3wvw8OdOg==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/SplitInHalf/SplitInHalf/SplitInHalf.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

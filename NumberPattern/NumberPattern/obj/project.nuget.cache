@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bn1V+/9seHVTcZdCa2fLtxdQca+5hbm+RPG00GC3tpvew3QaQReCC2v9+u1Ek4Ij9Q72YFpU0m5cMRdDTplfPA==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/NumberPattern/NumberPattern/NumberPattern.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

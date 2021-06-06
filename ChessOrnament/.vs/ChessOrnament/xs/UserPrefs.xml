@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4C566742-2C11-41C9-8CEC-8DC188F55ECE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessOrnament/Program.fs">
+    <Files>
+      <File FileName="ChessOrnament/Program.fs" Line="10" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessOrnament" expanded="True">
+            <Node name="ChessOrnament" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChessOrnament PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

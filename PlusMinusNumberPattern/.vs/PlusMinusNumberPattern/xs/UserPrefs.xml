@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlusMinusNumberPattern/Program.fs">
+    <Files>
+      <File FileName="PlusMinusNumberPattern/Program.fs" Line="13" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlusMinusNumberPattern" expanded="True">
+            <Node name="PlusMinusNumberPattern" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlusMinusNumberPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

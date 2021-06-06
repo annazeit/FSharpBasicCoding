@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLknn/vbrAGKgoYzsBafaVvmRug4OrkTPtHYBTJ5gtpgBNoik3kJ3DtqV3eWamxhap8aue8bL7CUwfpL0fsFHA==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/SortAB/SortAB/SortAB.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PlusMinusNumberPattern", "PlusMinusNumberPattern\PlusMinusNumberPattern.fsproj", "{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A4785C-BDA0-4BB9-92A0-41412D5E14E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D0A54F-8FEA-44E6-AD56-112968F4898C}
+	EndGlobalSection
+EndGlobal

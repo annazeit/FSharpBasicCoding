@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FFF5F095-3445-4166-ABC6-3596ABE3C5AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplitArray/Program.fs">
+    <Files>
+      <File FileName="SplitArray/Program.fs" Line="24" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SplitArray" expanded="True">
+            <Node name="SplitArray" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SplitArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

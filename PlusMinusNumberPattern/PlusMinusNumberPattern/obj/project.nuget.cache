@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3x/3SKVw07qaUWhMAETbYU4btkepJBW20VSTL6dUc1S46hbBbGU6mxBJlCPzOuQkWgVi7hnStAOBqaRrb6ZCg==",
+  "success": true,
+  "projectFilePath": "/Users/annabilyk/Projects/PlusMinusNumberPattern/PlusMinusNumberPattern/PlusMinusNumberPattern.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annabilyk/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
