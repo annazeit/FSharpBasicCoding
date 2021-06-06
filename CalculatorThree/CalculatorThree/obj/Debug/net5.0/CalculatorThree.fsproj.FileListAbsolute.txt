@@ -1,3 +1,0 @@
-/Users/annabilyk/Projects/CalculatorThree/CalculatorThree/obj/Debug/net5.0/CalculatorThree.fsprojAssemblyReference.cache
-/Users/annabilyk/Projects/CalculatorThree/CalculatorThree/obj/Debug/net5.0/CalculatorThree.AssemblyInfoInputs.cache
-/Users/annabilyk/Projects/CalculatorThree/CalculatorThree/obj/Debug/net5.0/CalculatorThree.AssemblyInfo.fs
