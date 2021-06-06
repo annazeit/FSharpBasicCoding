@@ -1,17 +1,10 @@
-﻿<Properties StartupConfiguration="{A469D5E0-146F-46EA-B429-7D08AD079495}|Default">
+﻿<Properties StartupConfiguration="{DAB98BEA-EFD5-41E0-9F64-0EE003F2C93B}|Default">
   <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Program.fs">
-    <Files>
-      <File FileName="Calculator/Program.fs" Line="31" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Calculator" expanded="True">
-            <Node name="Calculator" expanded="True">
-              <Node name="Program.fs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Calculator" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

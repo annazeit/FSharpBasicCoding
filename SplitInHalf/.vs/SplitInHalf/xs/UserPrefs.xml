@@ -1,16 +1,9 @@
-﻿<Properties StartupConfiguration="{903EA9C3-2822-408F-ABDC-34B20BFC4A74}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SplitInHalf/Program.fs">
-    <Files>
-      <File FileName="SplitInHalf/Program.fs" Line="7" Column="56" />
-    </Files>
+﻿<Properties StartupConfiguration="{16B6FE3F-A28C-4775-836C-A56BB0FA0A89}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SplitInHalf" expanded="True">
-            <Node name="SplitInHalf" expanded="True">
-              <Node name="Program.fs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="SplitInHalf" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
