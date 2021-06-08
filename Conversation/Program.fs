@@ -47,7 +47,7 @@ if answer6 = "what is the weather now" then
 else
     Console.WriteLine("I am not currently connected to the Internet :(")
 
-Console.WriteLine("So, do you listen tho music " + answer1 +"?")
+Console.WriteLine("So, do you listen tho music " + answer1 + "?")
 let answer7 = Console.ReadLine()
 if answer7 = "yes" then
     Console.WriteLine("Cool, me too. Check out this awsome site called Soptify. You can use it to listen to all kinds of music. https://www.spotify.com/ie/home/")
@@ -55,6 +55,26 @@ elif answer7 = "no" then
     Console.WriteLine("Oh, then what do you like to do then?")
     let answer7point5 = Console.ReadLine()
     Console.WriteLine("Nice")
+
+Console.WriteLine("Do you want to play a game? " + answer1)
+let answer8 = Console.ReadLine()
+if answer8 = "yes" then
+    Console.WriteLine("Ok then")
+    Console.WriteLine("the rules of the game are: I describe an animal and you should ges it. I can only say yes or no.")
+    Console.WriteLine("If you unsderstand the rules send a :) ")
+    let answer8point5 = Console.ReadLine()
+    if answer8point5 = ":)" then
+        Console.WriteLine("Lets start then.")
+        Console.WriteLine("it has a very long neck and long legs. It likes to eat leaves high up from the trees.")
+        let answer8point25 = Console.ReadLine()
+        if answer8point25 = "giraffe" then
+            Console.WriteLine("Yes, Its a giraffe.")
+        else
+            Console.WriteLine("nope,It was a giraffe.")
+elif answer8 = "no" then
+    Console.WriteLine("ok")
+else
+    Console.WriteLine("Sorry,I didn't get that.")
 
 Console.WriteLine("You know, Ive been really enjoing talking with you." + answer1)
 

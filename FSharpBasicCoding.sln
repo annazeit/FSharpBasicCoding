@@ -35,6 +35,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SplitArray", "SplitArray\Sp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SplitInHalf", "SplitInHalf\SplitInHalf.fsproj", "{01C8DF56-CA79-467A-AD36-C1846C4FAC77}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SimpleCoding", "SimpleCoding\SimpleCoding.fsproj", "{C14D9E4B-9ED4-4527-B424-EED515B40CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{01C8DF56-CA79-467A-AD36-C1846C4FAC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C8DF56-CA79-467A-AD36-C1846C4FAC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C8DF56-CA79-467A-AD36-C1846C4FAC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14D9E4B-9ED4-4527-B424-EED515B40CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14D9E4B-9ED4-4527-B424-EED515B40CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14D9E4B-9ED4-4527-B424-EED515B40CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14D9E4B-9ED4-4527-B424-EED515B40CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -112,4 +118,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20E6089B-19AD-478E-9709-676B7DACB929}
 	EndGlobalSection
-EndGlobal  
+EndGlobal
