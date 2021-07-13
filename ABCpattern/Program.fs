@@ -6,7 +6,7 @@
     let n = Int32.Parse(number)
     for i in 0..(n - 1) do
         let c =
-            let remeinder = i% 3
+            let remeinder = i % 3
             if remeinder = 0 then "A"
             elif remeinder = 1 then "B"
             else "C"
